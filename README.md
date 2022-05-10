@@ -1,7 +1,5 @@
-# Dynamic_Flight
+# CertifiableMutualLocalization
 
-The associated paper is submitted to IROS 2021. [Preprint](https://arxiv.org/abs/2103.05870) is available.
-
-Video Links: [YouTube](https://www.youtube.com/watch?v=5YwNXcypBmk), [bilibili](https://www.bilibili.com/video/BV1ey4y187v5?from=search&seid=3053292363057938533) (for Mainland China)
+The associated paper is submitted to RAL 2022 with IROS options. [Preprint](https://arxiv.org/abs/2203.09312) is available.
 
 The code will be made public after publication.
