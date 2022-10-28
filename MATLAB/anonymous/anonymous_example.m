@@ -27,14 +27,14 @@ end
 
 
 %% Initial Value Sensitivity Experiment
-lm_param.resolution = 4;
-tro_param.resolution = 4;
-[local_trajs, bearings_data, data_gt, ~] = get_multiple_observation(numRobots, numTimes, param);
-[output] = benchmark_lm(local_trajs, bearings_data, data_gt, lm_param);
-figure(1)
-imagesc(output.cost_table)
-[output] = benchmark_tro(local_trajs, bearings_data, data_gt, tro_param);
-figure(2)
-imagesc(output.cost_table)
+% lm_param.resolution = 4;
+% tro_param.resolution = 4;
+% [local_trajs, bearings_data, data_gt, ~] = get_multiple_observation(numRobots, numTimes, param);
+% [output] = benchmark_lm(local_trajs, bearings_data, data_gt, lm_param);
+% figure(1)
+% imagesc(output.cost_table)
+% [output] = benchmark_tro(local_trajs, bearings_data, data_gt, tro_param);
+% figure(2)
+% imagesc(output.cost_table)
 
 
